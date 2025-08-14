@@ -46,7 +46,7 @@ Key Psychology by Audience
 
 Analysis Framework
 1. **Audience-Specific Trust**: Adapt credibility signals to audience needs
-2. **Conversion Barriers**: Identify friction points unique to detected audience
+2. **Conversion Barriers**: Identify friction points unique to detected audience or mentioned in the feedback
 3. **Value Communication**: Emphasize relevant benefits (clinical, financial, convenience)
 4. **Action Triggers**: Urgency/motivation appropriate to audience type
 
@@ -59,7 +59,6 @@ Generate exactly 3 hypotheses varying by:
 Creative Thinking Prompts
 - What would remove the biggest hesitation for THIS audience?
 - How can we make the value immediately obvious?
-- What social proof matters most to this segment?
 - How might we address unstated objections?
 - What would make someone act TODAY?
 
